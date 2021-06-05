@@ -7,6 +7,6 @@
   Pytorch >= 1.1
   
 # 步骤
-  1）python darknet2caffe.py yolov3.cfg yolov3.weights yolov3.prototxt yolov3.caffemodel
-  2）修改prototxt文件中的upsample为deconvolution
-  3）同1）
+  1）python darknet2caffe.py yolov3.cfg yolov3.weights yolov3.prototxt yolov3.caffemodel  
+  2）修改prototxt文件中的upsample为deconvolution  
+  3）同1）  
